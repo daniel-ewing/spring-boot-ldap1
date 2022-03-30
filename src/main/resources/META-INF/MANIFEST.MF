@@ -1,0 +1,1 @@
+Main-Class: org.example.spring.boot.ldap1.ProcessApplication
